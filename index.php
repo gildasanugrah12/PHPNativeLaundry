@@ -59,7 +59,7 @@
 						</button>
 					</div>
 					<div class="container-login100-form-btn mt-3">
-						<small>Dibuat Oleh FIKRI SUHERI | Template Login By ColorLib</small>
+						<small>Dibuat Oleh Gildas</small>
 					</div>
 				</form>
 			</div>
